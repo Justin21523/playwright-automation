@@ -4,6 +4,7 @@
     python311Packages.playwright
     python311Packages.greenlet
     chromium
+    gcc
     libnspr
     nss
     dbus
